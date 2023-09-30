@@ -1,4 +1,4 @@
-# Sher-PythonAutomation-Library
+# Sher Python Automation Library (SPAT)
 This is just a repo that hold scripts that I write to automate tasks in python!
 
 Scripts
